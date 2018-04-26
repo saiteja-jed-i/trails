@@ -1,4 +1,8 @@
 created a git file
 
+<<<<<<< HEAD
 edited by yogeesh
 
+=======
+a new line has been added here
+>>>>>>> b0dc802fe5c5378f9a0752a07dd12681d5c5ec73
